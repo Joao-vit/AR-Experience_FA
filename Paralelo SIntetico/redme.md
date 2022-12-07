@@ -1,0 +1,1 @@
+Esse é um dos projetos que fiz com foco em realidade aumentada em conjunto com a fashion aliens,uma iniciativa onde transforma aquilo que é físico em digital. Esse projeto eu faço uso de um igame target para rodar um video. Foi feito pela plataforma 8th wall.
